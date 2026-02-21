@@ -1,7 +1,7 @@
 <!-- Custom Profile Banner -->
 
 <h1 align="center">Hi 👋 I'm Harsh Kumar</h1>
-<h3 align="center">Full Stack Developer | WordPress Developer | React & Node.js Enthusiast 🇮🇳</h3>
+<h3 align="center">Full Stack Developer  | React & Node.js Enthusiast 🇮🇳</h3>
 ---
 
 ### 👩‍💻 About Me  
@@ -35,10 +35,8 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
   <img src="https://skillicons.dev/icons?i=css" width="45"/> 
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/> 
   <img src="https://skillicons.dev/icons?i=react" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=wordpress" width="45"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>  
   <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=figma" width="45"/> 
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </p>
