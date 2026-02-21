@@ -22,7 +22,7 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
 
 <p align="left">
   <a href="www.linkedin.com/in/harsh-kumar-a57594290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivika%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivika8126&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivika8126&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decoderharsh&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
 ### 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivika8126&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decoderharsh&theme=tokyonight"/>
 </p>
 
 ---
@@ -65,5 +65,5 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
 ### 👀 Profile Visitors  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shivika8126&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=decoderharsh&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
