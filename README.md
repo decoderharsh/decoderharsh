@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋 I'm Harsh Kumar</h1>
 <h3 align="center">Full Stack Developer  | React & Node.js Enthusiast 🇮🇳</h3>
----
 
 ### 👩‍💻 About Me  
 
