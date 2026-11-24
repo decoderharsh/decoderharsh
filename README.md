@@ -20,11 +20,9 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
 
 ### 🌐 Connect With Me  
 
-<p align="left">
-  <a href="www.linkedin.com/in/harsh-kumar-a57594290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/harsh-kumar-a57594290">
+  <img src="https://img.shields.io/badge/LinkedIn-HARSH%20KUMAR-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 ---
 
@@ -39,6 +37,9 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
   <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
+   <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 </p>
 
 ---
@@ -46,9 +47,10 @@ I am a B.Tech graduate in Computer Science and Engineering from Gurukul Kangri U
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivika8126&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=decoderharsh&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=decoderharsh&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
 
 ---
 
